@@ -1,3 +1,2 @@
-SD_Projects design and write programs.
-Provide solution to specific user needs.
-It is mainly collaborative.
+A repository that contains collaborative projects in python, web design and technical writing.
+
