@@ -1,2 +1,2 @@
-A repository that contains collaborative projects in python, web design and technical writing.
+A repository that contains collaborative projects containing files.
 
